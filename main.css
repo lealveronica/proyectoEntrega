@@ -49,7 +49,7 @@ header nav {
 
 #menu-checkbox {
     display: none;
-}
+}h
 
 #menu-checkbox:checked+.header-lista {
     display: block;
